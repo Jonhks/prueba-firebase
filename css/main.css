@@ -1,0 +1,7 @@
+.nav-color{
+  background-color: #000;
+}
+
+.nav-color li:hover{
+  background-color: #2BBBAD;
+}
